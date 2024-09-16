@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(red, green, blue);
+    color: black;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+
+
+    button {
+    background-color: rgb(93, 197, 133);
+    color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+
+    }
+
+}
